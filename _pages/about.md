@@ -7,8 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-This is the front page of a website that is powered by the [academicpages template]
 Hello, this is Qihan Wu. I'm a 5th-year Ph.D student at [Department of Psychological & Brain Sciences](https://pbs.jhu.edu), Johns Hopkins University. My advisor is [Jonathan Flombaum](https://pbs.jhu.edu/directory/jonathan-flombaum/). I am interested in object perception and visual cognition.
 
 A data-driven personal website
