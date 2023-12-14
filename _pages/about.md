@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Qihan Wu"
+title: "Qihan Wu 吴启涵"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
