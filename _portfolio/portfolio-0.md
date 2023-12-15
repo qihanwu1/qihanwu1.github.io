@@ -1,6 +1,7 @@
 ---
 title: "Motion Silencing: ring"
 collection: portfolio
+excerpt: "Both rings are changing colors at the same rate all the time, but when the ring starts to rotate, the color changes appear to stop."
 type: "Undergraduate course"
 permalink: /portfolio/portfolio-zzq
 ---
