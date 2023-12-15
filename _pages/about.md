@@ -15,6 +15,7 @@ Visual Illusions
 I designed and created various visual illusions. I think visual illusions can tell us a lot about how humans see the world and how their mind works. They are also fun and cool to look at. See some of the visual illusions I created in 'Demo'.
 
 **Motion Silencing**
+
 One visual illusion that I mostly work on is called motion silencing. My work shows that it is not caused by things moving too fast, rather it is an attribution error (i.e., difficulties in attributing color to dots' location).
 
 Composite Object Representation (COR)
@@ -22,6 +23,7 @@ Composite Object Representation (COR)
 I study how composite object representation supports motion perception. 
 
 **Object Tracking**
+
 I use multiple-object tracking (MOT) as a paradigm to investigate what kind of representation is used during different motion types. Jon and I think that rotating objects are represented in a compositional way which is different from other types of motion (i.e., translation).
 
 Beauty Perception
@@ -29,4 +31,5 @@ Beauty Perception
 I am interested in the perception of beauty. 
 
 **The dimensionality of beauty**
+
 One fundamental question about perception is how many numbers (dimensions) are needed to fully describe it. For example, color is three-dimensional, area is two-dimensional, and length is one-dimensional. How many numbers are needed to describe beauty?
