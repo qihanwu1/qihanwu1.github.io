@@ -1,8 +1,7 @@
 ---
-title: "Motion Silencing: ring"
-excerpt: "Motion silencing demo number 1, the original ring"
+title: "Motion Silencing: square"
 collection: portfolio
-permalink: /portfolio
+type: "Undergraduate course"
+permalink: /portfolio/portfolio-zzq
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxRvutfvl0Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hsIiAHbrGLU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
