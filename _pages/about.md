@@ -32,6 +32,3 @@ I am interested in the perception of beauty.
 The dimensionality of beauty
 ------
 One fundamental question about perception is how many numbers (dimensions) are needed to fully describe it. For example, color is three-dimensional, area is two-dimensional, and length is one-dimensional. How many numbers are needed to describe beauty?
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
