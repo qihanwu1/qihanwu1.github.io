@@ -15,9 +15,17 @@ I designed and created various visual illusions. I think visual illusions can te
 
 Motion Silencing
 ------
-One visual illusion that I mostly work on is called motion silencing. My work shows that it is not caused by things moving two fast, rather it is an attribution error (i.e., difficulties in attributing color to dots' location).
+One visual illusion that I mostly work on is called motion silencing. My work shows that it is not caused by things moving too fast, rather it is an attribution error (i.e., difficulties in attributing color to dots' location).
 
-The perception of beauty
+Composite Object Representation (COR)
+======
+I study how composite object representation supports motion perception. 
+
+Object Tracking
+------
+I use multiple-object tracking (MOT) as a paradigm to investigate what kind of representation is used during different motion types. Jon and I think that rotating objects are represented in a compositional way which is different from other types of motion (i.e., translation).
+
+Beauty Perception
 ======
 I am interested in the perception of beauty. 
 
