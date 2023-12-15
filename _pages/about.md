@@ -16,7 +16,7 @@ I designed and created various visual illusions. I think visual illusions can te
 
 **Motion Silencing**
 
-One visual illusion that I mostly work on is called motion silencing. My work shows that it is not caused by things moving too fast, rather it is an attribution error (i.e., difficulties in attributing color to dots' location).
+One visual illusion that I mostly work on is called motion silencing. My work shows that motion silencing is not caused by things moving too fast, rather it is an attribution error (i.e., difficulties in attributing color to object location).
 
 Composite Object Representation (COR)
 ------
