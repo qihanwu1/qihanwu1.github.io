@@ -24,7 +24,7 @@ I study how composite object representation supports motion perception.
 
 **Object Tracking**
 
-I use multiple-object tracking (MOT) as a paradigm to investigate what kind of representation is used during different motion types. Jon and I think that rotating objects are represented in a compositional way which is different from other types of motion (i.e., translation).
+I use multiple-object tracking (MOT) as a paradigm to investigate what kind of representation is used during different motion types. The COR hypothesis predicts that rotating objects are represented in a compositional way which is different from other types of motion (i.e., translation). 
 
 Beauty Perception
 ------
