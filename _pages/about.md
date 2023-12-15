@@ -12,7 +12,7 @@ Hello, this is Qihan Wu. I'm a 5th-year Ph.D. student at [Department of Psycholo
 
 Visual Illusions
 ------
-I designed and created various visual illusions. I think visual illusions can tell us a lot about how humans see the world and how their mind works. They are also fun and cool to look at. See some of the visual illusions I created in 'Demo'.
+I designed and created various visual illusions. I think visual illusions can tell us a lot about how humans see the world and how their mind works. Visual illusions are also fun and cool to look at. See some of the visual illusions I created in 'Demo'.
 
 **Motion Silencing**
 
