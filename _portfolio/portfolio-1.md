@@ -1,5 +1,5 @@
 ---
-title: "Motion Silencing: ringg"
+title: "Motion Silencing: ringgggg"
 excerpt: "Motion silencing demo number 1, the original ring"
 collection: portfolio
 permalink: /portfolio/portfolio-1
