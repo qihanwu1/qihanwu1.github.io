@@ -13,8 +13,8 @@ Visual Illusions
 ======
 I designed and created various visual illusions. I think visual illusions can tell us a lot about how humans see the world and how their mind works. They are also fun and cool to look at. See some of the visual illusions I created in 'Demo'.
 
-**Motion Silencing**
-
+Motion Silencing
+------
 One visual illusion that I mostly work on is called motion silencing. My work shows that it is not caused by things moving two fast, rather it is an attribution error (i.e., difficulties in attributing color to dots' location).
 
 The perception of beauty
