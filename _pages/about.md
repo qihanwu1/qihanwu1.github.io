@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "Qihan Wu 吴启涵"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Hello, this is Qihan Wu. I'm a 6th-year Ph.D. student at [Department of Psychological & Brain Sciences](https://pbs.jhu.edu), Johns Hopkins University. My advisor is [Jonathan Flombaum](https://pbs.jhu.edu/directory/jonathan-flombaum/). I am interested in object representation and perception.
 
+Hello, this is Qihan Wu 吴启涵. I'm a 6th-year Ph.D. student at [Department of Psychological & Brain Sciences](https://pbs.jhu.edu), Johns Hopkins University. My advisor is [Jonathan Flombaum](https://pbs.jhu.edu/directory/jonathan-flombaum/). I am interested in object representation and perception.
 
 Visual Illusions
 ------
