@@ -1,7 +1,8 @@
 ---
 title: 'Research number 1'
-date: 2012-08-14
+collection: research
 permalink: /research/research1
+date: 2012-08-14
 tags:
   - cool posts
   - category1
