@@ -2,12 +2,15 @@
 main:
   - title: "Publications"
     url: /publications/
+    
+  - title: "Research"
+     url: /_pages/research.html
 
   #- title: "Talks"
    #url: /talks/    
 
-  - title: "Research"
-    url: /teaching/    
+  #- title: "Teaching"
+  #  url: /teaching/    
     
   - title: "Demos"
     url: /portfolio/
@@ -20,3 +23,5 @@ main:
     
   # - title: "Guide"
   #   url: /markdown/
+  
+
