@@ -9,16 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-## Markdown guide
-The world is consistuted by obejcts. 
 
-### Header three
+This paper is about the number 1. The number 2 is left for future work.
 
-#### Header four
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-##### Header five
-
-###### Header six
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
 
 
 <a href="https://qihan.visualthinkingresearch.com/qihan/QW_CV.pdf">Qihan's CV</a>
