@@ -8,28 +8,47 @@ redirect_from:
   - /about.html
 ---
 
-Hello, this is Qihan Wu 吴启涵. I'm a 6th-year Ph.D. student at [Department of Psychological & Brain Sciences](https://pbs.jhu.edu), Johns Hopkins University. My advisor is [Jonathan Flombaum](https://pbs.jhu.edu/directory/jonathan-flombaum/). I am interested in object representation and perception.
+Hi! I am Qihan and like to study how we represent and process dynamic visual information. I obtained my Ph.D. from [Johns Hopkins University](https://pbs.jhu.edu), under the supervision of [Jonathan Flombaum](https://pbs.jhu.edu/directory/jonathan-flombaum/). 
 
-Visual Illusions
+# Header one
+
+## Header two
+
+### Header three
+
+
+# Object representation and perception
+------
+I study the principles that guide object representation and perception, and extend those principles to structures that are not conventional objects but governed by similar principles. 
+
+## Orbit-Centered Representation (OCR)
+
+I use multiple-object tracking (MOT) as a paradigm to investigate what kind of representation is used during different motion types. The OCR hypothesis predicts that rotating objects are represented in a compositional way, which is different from other types of motion (i.e., translation). 
+
+# Representation format and computations
+------
+Humans flexibly use different formats to represent incoming information. When the way information is represented matches task-specific procedural demands, performance is typically better. However, when there is a mismatch between the representation and the task, performance tends to suffer. I use the multiple object tracking (MOT) paradigm to provide evidence for this claim. 
+
+## When the representation format and task-specific procedural demands are in conflict
+
+### Object Tracking
+
+### Visual Illusions
 ------
 I designed and created various visual illusions. I think visual illusions can tell us a lot about how humans see the world and how their mind works. Visual illusions are also fun and cool to look at. See some of the visual illusions I created in 'Demo'.
 
-**Motion Silencing**
+#### Motion Silencing Illusion
 
 One visual illusion that I mostly work on is called motion silencing. My work shows that motion silencing is not caused by things moving too fast, rather it is an attribution error (i.e., difficulties in attributing dot's color to dot's location).
 
-Composite Object Representation (COR)
-------
-I study how composite object representation supports motion perception. 
+#### the Freezing Rotation Illusion
 
-**Object Tracking**
+## When the representation format and task-specific procedural demands are aligned
 
-I use multiple-object tracking (MOT) as a paradigm to investigate what kind of representation is used during different motion types. The COR hypothesis predicts that rotating objects are represented in a compositional way which is different from other types of motion (i.e., translation). 
-
-Beauty Perception
+# Beauty Perception
 ------
 I am interested in the perception of beauty. 
 
-**The dimensionality of beauty**
+## The dimensionality of beauty
 
 One fundamental question about perception is how many numbers (or dimensions) are needed to fully describe it. For example, color is three-dimensional, area is two-dimensional, and length is one-dimensional. How many numbers are needed to describe beauty?
