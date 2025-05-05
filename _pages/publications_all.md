@@ -1,1 +1,0 @@
-Xiang, Y., Kong, F., Wen, X., <b>Wu, Q.</b>, & Mo, L. (2016). Neural correlates of envy: regional homogeneity of resting-state brain activity predicts dispositional envy. Neuroimage, 142, 225-230.[download](http://academicpages.github.io/files/paper3.pdf)
