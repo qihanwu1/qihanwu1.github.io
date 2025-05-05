@@ -7,21 +7,19 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
 # Object representation and perception
 
 I study the principles that guide object representation and perception, and extend those principles to structures that are not conventional objects but governed by similar principles. 
 
 ## Orbit-Centered Representation (OCR)
-
 I use multiple-object tracking (MOT) as a paradigm to investigate what kind of representation is used during different motion types. The OCR hypothesis predicts that rotating objects are represented in a compositional way, which is different from other types of motion (i.e., translation). 
 
 # Representation format and computations
 
 Humans flexibly use different formats to represent incoming information. When the way information is represented matches task-specific procedural demands, performance is typically better. However, when there is a mismatch between the representation and the task, performance tends to suffer. I use the multiple object tracking (MOT) paradigm to provide evidence for this claim. 
 
-## When the representation format and task-specific procedural demands are in conflict
+## When the representation format and task-specific procedural demands are in conflict:
 
 ### Object Tracking
 
@@ -35,7 +33,7 @@ I designed and created various visual illusions. I think visual illusions can te
 
 #### the Freezing Rotation Illusion
 
-## When the representation format and task-specific procedural demands are aligned
+## When the representation format and task-specific procedural demands are aligned:
 
 # Beauty Perception
 
