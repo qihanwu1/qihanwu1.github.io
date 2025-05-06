@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-# 1. Object representation and perception
+# 1. Object representation and perceptionnnn
 
 I study the principles that guide object representation and perception, and extend those principles to structures that are not conventional objects but governed by similar principles. 
 
