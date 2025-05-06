@@ -46,7 +46,6 @@ I also provide evidence from the other side for the same claim. When the represe
 I am interested in the perception of beauty. 
 
 ### The dimensionality of beauty
-
 One fundamental question about perception is how many numbers (or dimensions) are needed to fully describe it. For example, color is three-dimensional, area is two-dimensional, and length is one-dimensional. How many numbers are needed to describe beauty?
 <a href="https://qihan.visualthinkingresearch.com/qihan/VSS_2019_Qihan_Wu">VSS poster</a>
 
