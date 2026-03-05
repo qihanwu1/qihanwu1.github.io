@@ -1,7 +1,7 @@
 ---
 title: "Neural correlates of envy: regional homogeneity of resting-state brain activity predicts dispositional envy"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/neural-correlates-envy-2016
 excerpt: 'Neural correlates of envy: regional homogeneity of resting-state brain activity predicts dispositional envy'
 date: 2016
 venue: 'Neuroimage'
